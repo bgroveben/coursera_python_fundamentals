@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am [here](https://www.coursera.org/learn/python-data-analysis/lecture/7Pm9b/advanced-python-lambda-and-list-comprehensions).
+I am [here](https://www.coursera.org/learn/python-data-analysis/lecture/LdmXU/advanced-python-demonstration-the-numerical-python-library-numpy).
