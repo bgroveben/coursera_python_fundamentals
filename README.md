@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am [here](https://www.coursera.org/learn/python-data-analysis/lecture/jTKhJ/advanced-python-objects-map).
+I am [here](https://www.coursera.org/learn/python-data-analysis/lecture/7Pm9b/advanced-python-lambda-and-list-comprehensions).
