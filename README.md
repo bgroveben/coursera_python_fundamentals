@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/d75Vm/querying-a-series).
+I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/TQwb6/the-dataframe-data-structure).
