@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am [here](https://www.coursera.org/learn/python-data-analysis/lecture/LdmXU/advanced-python-demonstration-the-numerical-python-library-numpy).
+I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/JvRF7/introduction).
