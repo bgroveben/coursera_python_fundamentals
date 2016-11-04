@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/v5NUt/indexing-dataframes).
+I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/j0cJ3/missing-values).
