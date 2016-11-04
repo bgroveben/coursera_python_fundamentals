@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/j0cJ3/missing-values).
+I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/notebook/Um6Bz/assignment-2).
