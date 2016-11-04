@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/GEBGc/dataframe-indexing-and-loading).
+I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/lecture/QnPL7/querying-a-dataframe).
