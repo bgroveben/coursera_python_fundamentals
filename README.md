@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 2](https://www.coursera.org/learn/python-data-analysis/notebook/Um6Bz/assignment-2).
+I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/notebook/WxInF/week-3-lectures-jupyter-notebook).
