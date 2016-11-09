@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/lecture/Ln156/pandas-idioms).
+I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/lecture/yO8DX/group-by).
