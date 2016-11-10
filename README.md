@@ -4,4 +4,4 @@
 
 ### Taught by: Christopher Brooks ... Thank You Christopher!
 
-I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/lecture/A6Khb/pivot-tables).
+I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/lecture/ZMyC5/date-functionality).
