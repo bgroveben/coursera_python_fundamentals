@@ -6,6 +6,6 @@
 
 I'm taking a detour so I can learn a bit more about pandas from the [documentation](http://pandas.pydata.org/pandas-docs/stable/index.html).  
 
-In the TUTORIAL, I am [here](http://pandas.pydata.org/pandas-docs/stable/10min.html#missing-data).  
+In the TUTORIAL, I am [here](http://pandas.pydata.org/pandas-docs/stable/10min.html#operations).  
 
 In the CLASS, I am on [Week 3](https://www.coursera.org/learn/python-data-analysis/notebook/KSSjT/assignment-3).
